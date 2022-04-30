@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 38760.50,
+        "id": 1,
+        "title": "Bitcoin",
+        "thumbnailUrl": "img/bitcoin.png"
+    },
+    {
+        "precio": 2300,
+        "id": 2,
+        "title": "Ethereum",
+        "thumbnailUrl": "img/ethereum.png"
+    },
+    {
+        "precio": 100,
+        "id": 3,
+        "title": "Litecoin",
+        "thumbnailUrl": "img/litecoin.png"
+    },
+    {
+        "precio": 24.85,
+        "id": 4,
+        "title": "Enjin",
+        "thumbnailUrl": "img/enjin.png"
+    },
+    {
+        "precio": 0.19,
+        "id": 5,
+        "title": "Atar",
+        "thumbnailUrl": "img/atar.png"
+    },
+    {
+        "precio": 365.94,
+        "id": 6,
+        "title": "Chela",
+        "thumbnailUrl": "img/binance.png"
+    }
+]
